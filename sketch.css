@@ -1,0 +1,16 @@
+#container>div{
+	height: 20px;
+	width: 20px;
+	border: 1px solid #666;
+	display: inline-block;
+	
+	
+}
+.squaresOn{	
+	background-color: green;	
+	
+}
+
+.squares{
+	margin: 5px;
+}
