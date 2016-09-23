@@ -1,19 +1,26 @@
-#container>div{
-	height: 20px;
-	width: 20px;
-	border: 1px solid #666;
-	display: inline-block;
-	
-	
-}
 .squaresOn{	
-	background-color: cyan;		
+	background-color: #666;		
 }
 
 .squares{
-	margin: 3px;
+	margin: 0px;	
+	/*border: 1px solid black;*/
 }
 
 #reset{
 	float: bottom;	
+}
+
+#container{
+	border: 1px solid black;	
+}
+#thetable{
+	padding: -1px;
+	margin: 0px;
+	border-collapse: collapse;
+}
+.buttons{
+	float: bottom;
+	clear: both;
+	
 }
